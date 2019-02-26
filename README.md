@@ -1,6 +1,6 @@
 # Termination-Application
 
-Implemented by NYU Financial Systems Management from (01/2017 – Present)
+Implemented by NYU Financial Systems Management from (01/2018 – Present)
 
 - A Python application meant to ensure cleared NYU users have
 access to the appropriate financial systems for university.
